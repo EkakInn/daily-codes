@@ -1,0 +1,124 @@
+{
+    "analysis_with_area": [
+        {
+            "video_id": 53624,
+            "Maximum_Area": 38014,
+            "Minimum_Area": 774,
+            "Average_Area": 8814
+        },
+        {
+            "video_id": 51221,
+            "Maximum_Area": 53295,
+            "Minimum_Area": 1200,
+            "Average_Area": 9260
+        },
+        {
+            "video_id": 53622,
+            "Maximum_Area": 59427,
+            "Minimum_Area": 805,
+            "Average_Area": 10952
+        },
+        {
+            "video_id": 53643,
+            "Maximum_Area": 49088,
+            "Minimum_Area": 250,
+            "Average_Area": 7210
+        },
+        {
+            "video_id": 53640,
+            "Maximum_Area": 41449,
+            "Minimum_Area": 225,
+            "Average_Area": 5266
+        },
+        {
+            "video_id": 53619,
+            "Maximum_Area": 31886,
+            "Minimum_Area": 495,
+            "Average_Area": 9057
+        },
+        {
+            "video_id": 53608,
+            "Maximum_Area": 55282,
+            "Minimum_Area": 1216,
+            "Average_Area": 8539
+        },
+        {
+            "video_id": 53632,
+            "Maximum_Area": 38948,
+            "Minimum_Area": 616,
+            "Average_Area": 10322
+        },
+        {
+            "video_id": 53625,
+            "Maximum_Area": 53424,
+            "Minimum_Area": 1932,
+            "Average_Area": 9248
+        },
+        {
+            "video_id": 53607,
+            "Maximum_Area": 50298,
+            "Minimum_Area": 1632,
+            "Average_Area": 11708
+        },
+        {
+            "video_id": 53621,
+            "Maximum_Area": 175161,
+            "Minimum_Area": 1054,
+            "Average_Area": 11296
+        },
+        {
+            "video_id": 53610,
+            "Maximum_Area": 126378,
+            "Minimum_Area": 702,
+            "Average_Area": 11585
+        },
+        {
+            "video_id": 53633,
+            "Maximum_Area": 120357,
+            "Minimum_Area": 910,
+            "Average_Area": 7286
+        },
+        {
+            "video_id": 53612,
+            "Maximum_Area": 44288,
+            "Minimum_Area": 648,
+            "Average_Area": 6078
+        },
+        {
+            "video_id": 53626,
+            "Maximum_Area": 37720,
+            "Minimum_Area": 990,
+            "Average_Area": 8049
+        },
+        {
+            "video_id": 53631,
+            "Maximum_Area": 37604,
+            "Minimum_Area": 560,
+            "Average_Area": 8801
+        },
+        {
+            "video_id": 53609,
+            "Maximum_Area": 45567,
+            "Minimum_Area": 1066,
+            "Average_Area": 9141
+        },
+        {
+            "video_id": 53629,
+            "Maximum_Area": 38843,
+            "Minimum_Area": 986,
+            "Average_Area": 11871
+        },
+        {
+            "video_id": 53616,
+            "Maximum_Area": 43520,
+            "Minimum_Area": 825,
+            "Average_Area": 9527
+        },
+        {
+            "video_id": 53638,
+            "Maximum_Area": 25350,
+            "Minimum_Area": 924,
+            "Average_Area": 7400
+        }
+    ]
+}
