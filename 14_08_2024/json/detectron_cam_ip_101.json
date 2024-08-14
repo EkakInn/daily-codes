@@ -1,0 +1,102 @@
+{
+    "object_data": [
+        {
+            "timeStamp": 183500,
+            "dateStamp": 20220819,
+            "confidence": "0.60",
+            "object": "pizza",
+            "co_ordinates": [
+                679,
+                395,
+                1201,
+                710
+            ],
+            "video_id": 101,
+            "frame_no": 525
+        },
+        {
+            "timeStamp": 183500,
+            "dateStamp": 20220819,
+            "confidence": "0.62",
+            "object": "pizza",
+            "co_ordinates": [
+                680,
+                393,
+                1216,
+                713
+            ],
+            "video_id": 101,
+            "frame_no": 840
+        },
+        {
+            "timeStamp": 183500,
+            "dateStamp": 20220819,
+            "confidence": "0.66",
+            "object": "pizza",
+            "co_ordinates": [
+                674,
+                386,
+                1160,
+                718
+            ],
+            "video_id": 101,
+            "frame_no": 885
+        },
+        {
+            "timeStamp": 183500,
+            "dateStamp": 20220819,
+            "confidence": "0.74",
+            "object": "pizza",
+            "co_ordinates": [
+                684,
+                387,
+                1158,
+                707
+            ],
+            "video_id": 101,
+            "frame_no": 930
+        },
+        {
+            "timeStamp": 183500,
+            "dateStamp": 20220819,
+            "confidence": "0.68",
+            "object": "pizza",
+            "co_ordinates": [
+                687,
+                399,
+                1193,
+                715
+            ],
+            "video_id": 101,
+            "frame_no": 1215
+        },
+        {
+            "timeStamp": 183500,
+            "dateStamp": 20220819,
+            "confidence": "0.68",
+            "object": "pizza",
+            "co_ordinates": [
+                677,
+                396,
+                723,
+                427
+            ],
+            "video_id": 101,
+            "frame_no": 1215
+        },
+        {
+            "timeStamp": 183500,
+            "dateStamp": 20220819,
+            "confidence": "0.69",
+            "object": "pizza",
+            "co_ordinates": [
+                698,
+                385,
+                1194,
+                714
+            ],
+            "video_id": 101,
+            "frame_no": 1245
+        }
+    ]
+}
